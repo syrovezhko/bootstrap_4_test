@@ -1,0 +1,149 @@
+.navbar-brand_sub {
+  font-size: 16px; }
+
+.card {
+  width: 13rem;
+  border: solid 1px;
+  border-radius: 5px; }
+  .card-logo {
+    max-width: 40px;
+    max-height: 40px; }
+  .card-title_eng {
+    font-size: 18px; }
+    .card-title_eng1 {
+      font-size: 16px; }
+  .card-title_disc {
+    font-size: 12px; }
+  .card-subtitle {
+    font-size: 15px; }
+  .card-checkin {
+    height: 130px;
+    width: 13rem;
+    margin-bottom: 20px;
+    font-size: 10px; }
+    @media (max-width: 575px) and (min-width: 550px) {
+      .card-checkin {
+        margin-left: 50px;
+        width: 18rem; } }
+    @media (max-width: 550px) and (min-width: 530px) {
+      .card-checkin {
+        margin-left: 40px;
+        width: 17rem; } }
+    @media (max-width: 530px) and (min-width: 510px) {
+      .card-checkin {
+        margin-left: 35px;
+        width: 17rem; } }
+    @media (max-width: 510px) and (min-width: 490px) {
+      .card-checkin {
+        margin-left: 30px;
+        width: 17rem; } }
+    @media (max-width: 490px) and (min-width: 450px) {
+      .card-checkin {
+        margin-left: 25px;
+        width: 17rem; } }
+    @media (max-width: 420px) and (min-width: 400px) {
+      .card-checkin {
+        margin-left: 9px;
+        width: 15rem; } }
+    @media (max-width: 376px) and (min-width: 368px) {
+      .card-checkin {
+        margin-left: 10px;
+        width: 13rem; } }
+    @media (max-width: 325px) and (min-width: 315px) {
+      .card-checkin {
+        width: 13rem;
+        outline-offset: 1px; } }
+  .card-offer {
+    height: 320px; }
+    @media (max-width: 420px) and (min-width: 400px) {
+      .card-offer {
+        margin-left: 90px; } }
+    @media (max-width: 390px) and (min-width: 381px) {
+      .card-offer {
+        margin-left: 75px; } }
+    @media (max-width: 380px) and (min-width: 366px) {
+      .card-offer {
+        margin-left: 70px; } }
+    @media (max-width: 365px) and (min-width: 355px) {
+      .card-offer {
+        margin-left: 60px; } }
+    @media (max-width: 325px) and (min-width: 315px) {
+      .card-offer {
+        margin-left: 45px; } }
+
+.mos {
+  max-width: 220px; }
+
+.disc-fus {
+  font-size: 14px;
+  margin-bottom: 10px; }
+.disc-py {
+  font-size: 14px;
+  margin-bottom: 20px; }
+@media (min-width: 1100px) {
+  .disc {
+    max-width: 520px; } }
+@media (max-width: 1099px) and (min-width: 990px) {
+  .disc {
+    max-width: 500px; } }
+@media (max-width: 990px) and (min-width: 36px) {
+  .disc {
+    padding-left: 50px;
+    padding-right: 20px;
+    max-width: 480px; } }
+
+@media (max-width: 575px) {
+  .btn-modal_castom {
+    margin-left: 30px;
+    align-items: center;
+    width: 80%; } }
+
+.modal-age {
+  font-size: 20px; }
+.modal-time {
+  font-size: 15px; }
+
+@media (max-width: 575px) and (min-width: 36px) {
+  .checkin-disc_unit {
+    padding-left: 50px; } }
+@media (max-width: 416px) and (min-width: 410px) {
+  .checkin-tutorial_img {
+    margin-right: 60px; } }
+@media (max-width: 410px) and (min-width: 380px) {
+  .checkin-tutorial_img {
+    margin-right: 75px; } }
+@media (max-width: 380px) and (min-width: 365px) {
+  .checkin-tutorial_img {
+    margin-right: 80px; } }
+@media (max-width: 365px) and (min-width: 355px) {
+  .checkin-tutorial_img {
+    margin-right: 90px; } }
+@media (max-width: 325px) and (min-width: 315px) {
+  .checkin-tutorial_img {
+    margin-right: 100px; } }
+
+.meet-subtitle {
+  font-size: 15px; }
+.meet-btn {
+  min-width: 240px; }
+
+kbd {
+  background: #f5f5f5;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.875em;
+  word-break: keep-all;
+  border: 1px solid #e6e6e6;
+  text-shadow: 0 1px white; }
+
+.hover-img span {
+  position: absolute;
+  top: 200px;
+  left: 10px;
+  opacity: 0;
+  transition: 0.5s; }
+
+.hover-img:hover span {
+  opacity: 1; }
+
+/*# sourceMappingURL=style.css.map */
